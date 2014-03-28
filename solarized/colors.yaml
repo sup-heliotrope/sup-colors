@@ -1,0 +1,129 @@
+# Cursor
+
+:default_h:
+  :fg: 14
+  :bg: 0
+
+:inverted_h:
+  :fg: 14
+  :bg: 8
+
+
+# Index in order of appearance
+
+:tagged:
+  :highlight: inverted_h
+  :fg: 125
+  :bg: 0
+#  :attrs:
+#  - bold
+
+:tagged_h:
+  :fg: 5
+  :bg: 8
+
+:date:
+  :highlight: default_h
+  :fg: 12
+  :bg: 8
+  :attrs:
+  - bold
+
+:starred:
+  :highlight: default_h
+  :fg: 125
+  :bg: 0
+#  :attrs:
+#  - bold
+
+:size_widget:
+  :highlight: default_h
+  :fg: 244
+  :bg: 0
+
+:to_me:
+  :highlight: default_h
+  :fg: 64
+  :bg: 0
+#  :attrs:
+#  - bold
+
+
+:label:
+  :highlight: label_h
+  :fg: 5
+  :bg: 8
+#  :attrs:
+#  - bold
+:label_h:
+  :fg: 5
+  :bg: 0
+
+:index_old:
+  :highlight: default_h
+  :fg: 3
+  :bg: 8
+#  :attrs:
+#  - bold
+
+:snippet:
+  :highlight: default_h
+  :fg: 12
+  :bg: 8
+#  :attrs:
+#  - bold
+
+# New messages
+
+:index_new:
+  :highlight: index_new_h
+  :fg: 2
+  :bg: 8
+:index_new_h:
+  :fg: 2
+  :bg: 0
+
+# Subject of starred message
+
+:index_starred:
+  :highlight: index_starred_h
+  :fg: 4
+  :bg: 8
+:index_starred_h:
+  :fg: 4
+  :bg: 0
+
+# Thread-view-mode
+
+:message_patina:
+  :highlight: default_h
+  :fg: 3
+  :bg: 0
+#  :attrs:
+#  - bold
+
+:alternate_patina:
+  :highlight: inverted_h
+  :fg: 3
+  :bg: 8
+
+:attachment:
+#  :highlight:
+  :fg: 6
+  :bg: 8
+#  :attrs:
+#  - bold
+
+:text:
+  :highlight: text_h
+  :fg: 12
+  :bg: 8
+:text_h:
+  :fg: 14
+  :bg: 0
+
+# Status line
+
+:status:
+  :fg: 6
+  :bg: 0 
