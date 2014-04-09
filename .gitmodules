@@ -1,3 +1,6 @@
 [submodule "wombat"]
 	path = wombat
 	url = https://github.com/mklinik/sup-colorscheme-wombat.git
+[submodule "redtide"]
+	path = redtide
+	url = https://github.com/schmeisers/sup-colors-redtide.git
