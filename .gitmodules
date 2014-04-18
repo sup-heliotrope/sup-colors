@@ -4,3 +4,6 @@
 [submodule "redtide"]
 	path = redtide
 	url = https://github.com/schmeisers/sup-colors-redtide.git
+[submodule "lucius"]
+	path = lucius
+	url = git@github.com:madhat2r/sup-colors-lucius.git
