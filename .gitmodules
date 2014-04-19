@@ -7,3 +7,6 @@
 [submodule "lucius"]
 	path = lucius
 	url = git@github.com:madhat2r/sup-colors-lucius.git
+[submodule "molokai"]
+	path = molokai
+	url = git@github.com:madhat2r/sup-colors-molokai.git
