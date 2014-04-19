@@ -13,3 +13,6 @@
 [submodule "zenburn"]
 	path = zenburn
 	url = https://github.com/madhat2r/sup-colors-zenburn.git
+[submodule "tomorrow"]
+	path = tomorrow
+	url = https://github.com/madhat2r/sup-colors-tomorrow-night-eighties.git
